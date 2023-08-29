@@ -1,11 +1,12 @@
+Updates
 Login:
- .сделать валидацию емейла
- .изменить вывод ошбки при пустых полях
+ .create email validation
+ .change error returning in empty fields
 
 Registration:
- ."повторите пароль" не делает проверку на одинаковые пароли
+ ."repeat password" doesn't compare passwords
 
-Сделать добавление курсов
-Сделать удаление курсов
+implement adding courses
+implement deleting courses
 
-Сделать внешний вид
+create better view
